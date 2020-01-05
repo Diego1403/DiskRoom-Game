@@ -1,0 +1,25 @@
+﻿  DiskRoomWindow.cpp
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\objgrafico.h(18): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\objgrafico.h(29): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\objgrafico.h(35): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\objgrafico.h(36): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\objgrafico.h(47): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\objgrafico.h(48): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\jugador.h(32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\jugador.h(33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorspin.h(17): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorspin.h(22): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorspin.h(23): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorspin.h(24): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorspin.h(27): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorspin.h(28): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\persecutor.h(13): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\persecutor.h(14): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorpers.h(17): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorpers.h(22): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorpers.h(23): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorpers.h(24): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorpers.h(25): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\vectorpers.h(26): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\programación ii\tf\diskroom\diskroom alpha v0.1\diskroom\diskroomwindow.cpp(203): warning C4551: la llamada a la función no tiene lista de argumentos
+  DiskRoom.vcxproj -> D:\Documentos\Programación II\TF\DiskRoom\DiskRoom Alpha v0.1\DiskRoom\Debug\DiskRoom.exe
